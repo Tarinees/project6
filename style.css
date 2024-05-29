@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.bg-img {
+    background-image: url("bg-img.jpg");
+    background-size: cover;
+    height: 100vh;   
+}
+
+.content{
+    width: 20%;
+    padding-top: 22%;
+    padding-left: 22%;
+}
+.content p{
+    padding-bottom: 8px ;
+    font-size: 12px;
+}
+.content h1{
+    padding-bottom: 8px;
+}
+.btn-submit{
+    border-radius: 15px;
+    padding: 6px;
+    border: none;
+    cursor:pointer;
+}
+
+
+.sub-content{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+.sub-content h2{
+    padding-bottom: 15px;
+}
+
+.sub-content p{
+    padding-left: 12px;
+}
+.template{
+    background-color: #FAC869;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 18px;
+    padding-top: 18px;
+}
+.headphones{
+    width: 100%;
+}
+
+.products{
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+.section-heading{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.product-container{
+    width: 70%;
+    display: flex;
+    margin: 0 auto;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.card{
+    width: 33%;
+}
+
+.img img{
+    width: 90%;
+}
+
+.card-content{
+    width: 90%;
+    background-color: #FAC869;
+    
+}
+
+.card-content h4{
+    padding: 6px;
+}
+
+.card-content p{
+    padding: 6px;
+}
